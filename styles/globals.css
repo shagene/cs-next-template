@@ -14,3 +14,13 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.center {
+  text-align: center;
+}
+
+body {
+  background-color: #efefef;
+}
+
+.container {display: flex}
